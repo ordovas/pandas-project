@@ -8,7 +8,9 @@ The objective of this mini-project is to do an exercise to clean this messy data
 
 In my case, I will focus on a series of visualization and word frequency techniques. The objective is, without the need to spend days and days reading the injuries reports and the description of the activities related to the shark incident, to mine information about the nature of the shark attacks and its circumstances. 
 
-In this readme, I will provide a summary of the data cleaning process and the analysis performed. In the jupyter-notebook in the folder named "your-code" it is listed step by step all the processes related to this project.
+In this readme, I will provide a summary of the data cleaning process and the analysis performed. In the jupyter-notebooks in the folder named "your-code" it is listed step by step all the processes related to this project.
+
+The data-clean file describes the data cleaning process, while the data-wrangling one shows the visualization and analysis.
 
 
 
