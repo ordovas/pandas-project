@@ -31,7 +31,7 @@ With the information from the cleaned dataset, I plotted various information to 
 - The vast majority of the people involved with shark attacks are men.
 - More people survive these attacks than die from shark incidents.
 - The vast majority of the incidents are unprovoked, but both unprovoked incidents and sea disasters show the highest rates of fatality.
-- There is a higher shark incident rate in summer time.
+- There is a higher shark incident rate in summer time of the northern hemisphere.
 - The countries with the most recorded cases are USA, Australia and South Africa. The rest of the countries have less than 500 reported incidents since the XIX century.
 - Normally there is no available information about the shark species, but when reported, the three species most frequent are White, Tiger and Bull sharks, in that order.
 
