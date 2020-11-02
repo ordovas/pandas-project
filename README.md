@@ -12,6 +12,7 @@ In this readme, I will provide a summary of the data cleaning process and the an
 
 The data-clean file describes the data cleaning process, while the data-wrangling one shows the visualization and analysis.
 
+![Shark attack](images/shark.jpg)
 
 
 ## Data cleaning
@@ -45,6 +46,7 @@ By computing the word frequency of the activity and injuries reports, we can obt
 - Provoked: The most frequent words are related to fishing activities.
 - Boating: As in the previous category, the most frequent word is fishing.
 
+![Word frequency](images/wf.png)
 
 
 ## Final Thoughts
