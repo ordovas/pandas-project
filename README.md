@@ -6,7 +6,7 @@ https://www.kaggle.com/teajay/global-shark-attacks/version/1
 
 The objective of this mini-project is to do an exercise to clean this messy dataset. This will allow us to perform an analysis of the shark incident information. With the cleaned dataset, the objective is to visualize this data using matplotlib and seaborn to better draw a series of concrete conclusions from this noisy information.
 
-The objective of my work is obtain the nature of the different type of shark attack incidents using a word frequency analysis. This is, without the need to spend days and days reading the injuries reports and the description of the activities related to the shark incident, to automatically mine information about the nature of the shark attacks and its circumstances. My hypothesis is that, looking at the word frequency, we can obtain information on whether some types of incidents are related with water sports such as surfing or swimming, other types related to fishing, etc. For example I prove that provoked incidents are related to fishing (rather than vandalism, as the name of the incident type could suggest).
+In my work I will try to understand the nature of the different types of shark attack incidents using a word frequency analysis. This is, without the need to spend days and days reading the injuries reports and the description of the activities related to the shark incident, to automatically mine information about the nature of the shark attacks and its circumstances. To test this, I will check the hypotheses that provoked incidents are related to fishing (rather than vandalism, as the name of the incident type could suggest), and that almost all surfing incidents are unprovoked incidents.
 
 In this readme, I will provide a summary of the data cleaning process and the analysis performed. In the jupyter-notebooks in the folder named "your-code" it is listed step by step all the processes related to this project.
 
@@ -48,9 +48,14 @@ By computing the word frequency of the activity and injuries reports, we can obt
 
 ![Word frequency](images/wf.png)
 
+## Check with hypothesis
+
+After obtaining the information from the word frequencies, I test the hypotheses that provoked incidents are fishing-related in most cases, and that shark attacks related to surfing are unprovoked in general. Using regex and pandas, I labeled every shark attack related to these activities, and then checked that these hypotheses based on the word analysis are true.
 
 ## Final Thoughts
 
 Even considering the very limited time to perform analysis on this dataset, and just conducting only a few data cleaning and analysis techniques, we can obtain valuable and concrete information about shark incidents using word frequency. The tools that are available in python, that I applied some of them in this exercise, have a lot of potential for researching information in large datasets, that with classic approaches are impossible to handle.
+
+
 
 
